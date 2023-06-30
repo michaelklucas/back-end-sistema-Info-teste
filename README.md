@@ -19,9 +19,9 @@ Instalação
 Siga as etapas abaixo para instalar e configurar o projeto em sua máquina local:
 
 1. Clone o repositório para o seu ambiente de desenvolvimento:
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/michaelklucas/back-end-sistema-Info-teste
 2. Acesse o diretório do projeto:
-     cd nome-do-repositorio
+     cd back-end-sistema-Info-teste
 3. Restaure as dependências do projeto:
     dotnet restore
 
